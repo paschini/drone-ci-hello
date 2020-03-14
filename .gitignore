@@ -1,0 +1,8 @@
+
+# General MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+#project configs
+.idea
